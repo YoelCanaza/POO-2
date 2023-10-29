@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697164929 source:c:\users\yoel\desktop\tad-clase\main.cpp
+	<iostream>
+	<stdio.h>
+	"listaprod.h"
+
+1697151158 c:\users\yoel\desktop\tad-clase\include\listaprod.h
+
+1697144752 source:c:\users\yoel\desktop\tad-clase\src\listaprod.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	"listaprod.h"
+
